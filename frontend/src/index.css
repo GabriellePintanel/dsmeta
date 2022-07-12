@@ -5,6 +5,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+
 }
 
 body,
@@ -27,4 +28,17 @@ a:visited {
 
 #sales {
     padding: 40px 10px;
+}
+
+body,
+html {
+    color: #ffffff;
+    background-color: #000;
+}
+
+a,
+a:hover,
+a:visited {
+    color: unset;
+    text-decoration: none;
 }
