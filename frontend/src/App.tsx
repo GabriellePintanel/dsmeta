@@ -1,3 +1,4 @@
+ main
 import NotificationButton from "./components/NotificationButton"
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
       <h1>Olá mundo!</h1>
       <NotificationButton />
     </>
+main
   )
 }
 
