@@ -22,6 +22,10 @@ function SalesCard() {
                         className="dsmeta-form-control"
                         dateFormat="dd/MM/yyyy"
                     />
+                    <input className="dsmeta-form-control" type="text"/>
+                </div>
+                <div className="dsmeta-form-control-container">
+                    <input className="dsmeta-form-control" type="text"/>
                 </div>
             </div>
             <div>
