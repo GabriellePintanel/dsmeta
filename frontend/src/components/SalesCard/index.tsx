@@ -8,7 +8,10 @@ function SalesCard() {
     const mim = new Date(new Date().setDate(new Date().getDate() - 365));
     const [minDate, setMinDate] = useState(mim);
     const [maxDate, setMaxDate] = useState(new Date());
+<<<<<<< HEAD
 
+=======
+>>>>>>> 86c48da7b6d78c48ca068979e758f870a7707641
     return (
         <div className="dsmeta-card">
             <h2 className="dsmeta-sales-title">Vendas</h2>
@@ -28,6 +31,13 @@ function SalesCard() {
                         className="dsmeta-form-control"
                         dateFormat="dd/MM/yyyy"
                     />
+<<<<<<< HEAD
+=======
+                    <input className="dsmeta-form-control" type="text"/>
+                </div>
+                <div className="dsmeta-form-control-container">
+                    <input className="dsmeta-form-control" type="text"/>
+>>>>>>> 86c48da7b6d78c48ca068979e758f870a7707641
                 </div>
             </div>
             <div>
