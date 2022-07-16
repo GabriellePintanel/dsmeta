@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-import logo from '../../assets/img/logo.svg';
-import './styles.css';
-=======
 import logo from '../../assets/img/logo.svg'
 import './styles.css'
-
->>>>>>> 86c48da7b6d78c48ca068979e758f870a7707641
 function Header() {
     return (
         
@@ -22,9 +16,4 @@ function Header() {
         
     )
 }
-<<<<<<< HEAD
 export default Header;
-=======
-export default Header
-
->>>>>>> 86c48da7b6d78c48ca068979e758f870a7707641

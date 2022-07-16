@@ -1,4 +1,4 @@
-package com.dsmetagabrielle.dsmeta.entities;
+ package com.dsmetagabrielle.dsmeta.entities;
 
 import java.time.LocalDate;
 
