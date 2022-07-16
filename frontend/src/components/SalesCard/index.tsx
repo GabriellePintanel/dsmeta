@@ -4,6 +4,7 @@ import "react-datepicker/dist/react-datepicker.css";
 import NotificationButton from '../NotificationButton';
 import './styles.css';
 function SalesCard() {
+    
 
     const mim = new Date(new Date().setDate(new Date().getDate() - 365));
     const [minDate, setMinDate] = useState(mim);
@@ -27,10 +28,7 @@ function SalesCard() {
                         className="dsmeta-form-control"
                         dateFormat="dd/MM/yyyy"
                     />
-                    <input className="dsmeta-form-control" type="text"/>
-                </div>
-                <div className="dsmeta-form-control-container">
-                    <input className="dsmeta-form-control" type="text"/>
+                    
                 </div>
             </div>
             <div>
