@@ -1,2 +1,2 @@
 # dsmeta
-Esse projeto ainda esta em desenvolvimento.
+Esse projeto foi finalizado.
