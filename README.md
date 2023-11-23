@@ -1,6 +1,7 @@
 # DsMeta
 # Sobre Projeto
-Esse é um projeto de um site Full Stack para Web e Mobile de registro de vendas chamado DsMeta, foi feito na Semana Spring React realizado pela Devsuperior.
+Essa aplicação foi feita na semana Spring React da DevSuperior. O frontend foi feito com React, HTML5 e CSS3 e o backend feito com Java e Springboot.
+O site é uma api para consultar vendas, filtrando por data e podendo enviar SMS para os vendedores.
 # Tecnologias Utilizadas
 ## Back end
 - Java
@@ -8,6 +9,6 @@ Esse é um projeto de um site Full Stack para Web e Mobile de registro de vendas
 - JPA / Hibernate
 - Maven
 ## Front end
-- HTML / CSS / TypeScript
+- HTML5 / CSS3 / TypeScript
 - ReactJS
 - React Native
